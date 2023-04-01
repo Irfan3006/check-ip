@@ -9,4 +9,4 @@ cd check-ip
 python3 checkip.py
 
 # Hasil
-![image](https://user-images.githubusercontent.com/92904571/229274012-441e3d0c-ea5d-46b0-bd29-f5e7415d705e.png)
+![image](https://user-images.githubusercontent.com/92904571/229274206-b2e4297b-38b2-4a89-b548-06c96b438f22.png)
